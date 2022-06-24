@@ -1,1 +1,9 @@
-Sistema de login na web com php
+sistema de login com php
+
+status do projeto: em desenvolvimento
+
+dependencias: 
+
+```
+xamp
+```
