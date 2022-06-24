@@ -2,8 +2,6 @@ sistema de login com php
 
 status do projeto: em desenvolvimento
 
-dependencias: 
+PROGRAMAS UTILIZADOS: 
 
-```
-xamp
-```
+XAMP E VSCODE 
